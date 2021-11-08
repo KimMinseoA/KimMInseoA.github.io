@@ -16,9 +16,11 @@ c언어의 시작은 AlGOL 60에서 찾을 수 있다. ALGOL 60은 알골 계열
 ![denis][cprogrammer]
 [cprogrammer]: https://www.google.com/url?sa=i&url=https%3A%2F%2Fcodedragon.tistory.com%2F811&psig=AOvVaw3d0liCBJ0iKhdNUS8TzCRC&ust=1636419489254000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCICe1OvHh_QCFQAAAAAdAAAAABAJ
 _280/v1466137418/h2jmm7eh11jdpa8sdoth.jpg
+
 C언어와 Unix 운영체제를 개발한 컴퓨터동학의 선구자이다. Unix 운영체제는 아이폰의 ios의 기반이 되는 등 현재 수많은 사람들이 사용하는 전산시스템의 체계를 마련하였다고 할 수 있다.
 
 --- 
 ### ★ c언어의 특징
 [![procon](/assets/images/procon.png "c언어에 대해 더 알고 싶다면 방문해보자")](https://cloudstudying.kr/lectures/290)
+
 c언어는 거의 모든 분야에서 사용할 수 있으며 c언어로 작성한 프로그램은 속도가 빠르다는 장점이 있다. 한편 다른 언어에 비해 상대적으로 배우고 사용하기 어렵고 주의해야할 부분이 많다는 점이 단점이다.
