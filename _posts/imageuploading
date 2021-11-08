@@ -1,0 +1,24 @@
+---
+title: "What is C?"
+layout: single
+---
+
+c언어는 전 세계에서 널리 쓰이는 컴퓨터 언어 중 하나이다. C언어가 어떤 개발자들에 의해, 어떠한 과정을 거쳐 발전했는지 알아보도록 하자.
+
+---
+### ★ c언어의 발전과정
+![chistory](/assets/images/chistory.png)
+c언어의 시작은 AlGOL 60에서 찾을 수 있다. ALGOL 60은 알골 계열의 프로그래밍 언어로 파스칼, C언어를 비롯한 다양한 언어의 기반이 되었다. 1960년대 개발된 알골은 유럽의 학자들이 주도하여 개발한 것으로 알고리즘 개발을 주 목적으로 하는 언어이다. 
+다음으로 BCPL은 1966년 케임브리지 대학에서 개발된 언어로 특정 프로그래밍언어를 번역한 컴파일러를 작성하기 위해 개발되었다. 이후 BCPL을 문법적으로 변형한 B언어가 출현하였고 C언어는 B언어를 기반으로 개발되었다.
+
+--- 
+### ★ c언어 개발자
+![denis][cprogrammer]
+[cprogrammer]: https://www.google.com/url?sa=i&url=https%3A%2F%2Fcodedragon.tistory.com%2F811&psig=AOvVaw3d0liCBJ0iKhdNUS8TzCRC&ust=1636419489254000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCICe1OvHh_QCFQAAAAAdAAAAABAJ
+_280/v1466137418/h2jmm7eh11jdpa8sdoth.jpg
+C언어와 Unix 운영체제를 개발한 컴퓨터동학의 선구자이다. Unix 운영체제는 아이폰의 ios의 기반이 되는 등 현재 수많은 사람들이 사용하는 전산시스템의 체계를 마련하였다고 할 수 있다.
+
+--- 
+### ★ c언어의 특징
+[![procon](/assets/images/procon.png "c언어에 대해 더 알고 싶다면 방문해보자")](https://cloudstudying.kr/lectures/290)
+c언어는 거의 모든 분야에서 사용할 수 있으며 c언어로 작성한 프로그램은 속도가 빠르다는 장점이 있다. 한편 다른 언어에 비해 상대적으로 배우고 사용하기 어렵고 주의해야할 부분이 많다는 점이 단점이다.
